@@ -9,6 +9,6 @@ int main() {
     printf("%c\n",*((p +5)-1) +3);             //at last we add 3 to ascii value of these 
     printf("%c\n",*(++p +10)-32);          //after subtract we get capital A in these
     printf("%c %c %c",*p,*++p,*--p);
-
+//jjjj
     return 0;
 }
